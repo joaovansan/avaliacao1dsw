@@ -7,7 +7,7 @@ export default function Banner() {
       <img
         className="relative flex-[0_0_auto] mb-[-2.24px]"
         alt="E commerce"
-        src="e-commerce-powerhouse-made-by-UTFPR.svg"
+        src="/workspaces/avaliacao1dsw/public/img/image.jpg"
       />
     </div>
   </div>
