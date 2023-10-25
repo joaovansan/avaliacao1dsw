@@ -3,7 +3,7 @@ export default function Main() {
 <div className="flex flex-col bg-white w-[1024px] items-start gap-[40px] relative">
 <div className="relative self-stretch w-full h-[2584px]">
   <div className="flex w-[968px] pl-0 pr-[823px] py-0 absolute top-[16px] left-[28px] flex-col items-start">
-    <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
+    <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] text-black font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
       Latest Drops
     </div>
   </div>
@@ -115,7 +115,7 @@ export default function Main() {
     <div className="flex items-center justify-around gap-[776.5px] relative self-stretch w-full flex-[0_0_auto]">
       <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
         <div className="pl-0 pr-[4.33px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
-          <div className="[font-family:'Inter-Regular',Helvetica] text-[24px] leading-[32px] relative w-fit mt-[-1.00px] font-normal tracking-[0] whitespace-nowrap">
+          <div className="[font-family:'Inter-Regular',Helvetica] text-black text-[24px] leading-[32px] relative w-fit mt-[-1.00px] font-normal tracking-[0] whitespace-nowrap">
             Mockups
           </div>
         </div>
@@ -221,7 +221,7 @@ export default function Main() {
     <div className="flex w-[968px] items-center justify-around gap-[768.35px] absolute top-[182px] left-0">
       <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
         <div className="pl-0 pr-[4.48px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
-          <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
+          <div className="relative w-fit mt-[-1.00px] text-black [font-family:'Inter-Regular',Helvetica] font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
             Templates
           </div>
         </div>
@@ -325,7 +325,7 @@ export default function Main() {
     <div className="flex w-[968px] items-center justify-around gap-[778.92px] absolute top-[630px] left-0">
       <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
         <div className="pl-0 pr-[4.91px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
-          <div className="[font-family:'Inter-Regular',Helvetica] text-[24px] leading-[32px] relative w-fit mt-[-1.00px] font-normal tracking-[0] whitespace-nowrap">
+          <div className="[font-family:'Inter-Regular',Helvetica] text-[24px] text-black leading-[32px] relative w-fit mt-[-1.00px] font-normal tracking-[0] whitespace-nowrap">
             Graphics
           </div>
         </div>
@@ -430,7 +430,7 @@ export default function Main() {
     <div className="flex w-[968px] items-center justify-around gap-[717.2px] absolute top-[1184px] left-0">
       <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
         <div className="pl-0 pr-[2.63px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
-          <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
+          <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[24px] tracking-[0] text-black leading-[32px] whitespace-nowrap">
             From The Meg
           </div>
         </div>
@@ -533,7 +533,7 @@ export default function Main() {
     </div>
   </div>
 </div>
-<div className="flex-col w-[1024px] gap-[32px] pt-[88px] pb-[32px] px-[32px] flex items-start relative flex-[0_0_auto]">
+<div className="flex-col w-[1024px] gap-[32px] pt-[88px] pb-[32px] px-[32px] text-black flex items-start relative flex-[0_0_auto]">
   <div className="flex flex-col items-start gap-[40px] px-[112px] py-0 relative self-stretch w-full flex-[0_0_auto]">
     <div className="relative max-w-screen-xl w-[736px] h-[2px] border border-solid border-[#40404040]" />
     <div className="pr-[1.53e-05px] pl-0 py-0 relative self-stretch w-full flex-[0_0_auto] flex items-start">
