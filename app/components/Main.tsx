@@ -1,6 +1,6 @@
 export default function Main() {
     return (
-<div className="flex flex-col bg-white w-[1024px] items-start gap-[40px] relative">
+<div className="flex items-start pt-0 pb-[16px] px-[112px] relative bg-white border-b">
 <div className="relative self-stretch w-full h-[2584px]">
   <div className="flex w-[968px] pl-0 pr-[823px] py-0 absolute top-[16px] left-[28px] flex-col items-start">
     <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] text-black font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
