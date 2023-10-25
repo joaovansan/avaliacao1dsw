@@ -1,22 +1,6 @@
 export default function Main() {
     return (
 <div className="flex flex-col w-[1024px] items-start gap-[40px] relative">
-<div className="flex h-[448px] items-center justify-center pl-[194.88px] pr-[194.89px] py-[128px] relative self-stretch w-full">
-  <div className="inline-flex items-start gap-[20px] pt-[80px] pb-0 px-0 relative flex-[0_0_auto]">
-    <div className="inline-flex pt-[16px] pb-0 px-0 relative flex-[0_0_auto] flex-col items-start">
-      <div className="inline-flex items-center pl-[0.21px] pr-[0.01px] py-0 flex-[0_0_auto] flex-col relative">
-        <img
-          className="relative flex-[0_0_auto] mb-[-2.24px]"
-          alt="E commerce"
-          src="e-commerce-powerhouse-made-by-UTFPR.svg"
-        />
-      </div>
-    </div>
-    <img className="max-w-[634.23px] w-[100px] relative self-stretch" alt="Image" src="image-15.png" />
-  </div>
-</div>
-
-
 <div className="relative self-stretch w-full h-[2584px]">
   <div className="flex w-[968px] pl-0 pr-[823px] py-0 absolute top-[16px] left-[28px] flex-col items-start">
     <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
