@@ -19,7 +19,7 @@ export default function Main() {
 
 <div className="relative self-stretch w-full h-[2584px]">
   <div className="flex w-[968px] pl-0 pr-[823px] py-0 absolute top-[16px] left-[28px] flex-col items-start">
-    <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-black text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
+    <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
       Latest Drops
     </div>
   </div>
