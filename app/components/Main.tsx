@@ -640,8 +640,7 @@ export default function Main() {
           © UTFPR 2023
         </div>
       </div>
-      <img className="relative self-stretch flex-[0_0_auto]" alt="Div flex" src="div-flex.svg" />
-    </div>
+      </div>
   </div>
 </div>
 </div>
