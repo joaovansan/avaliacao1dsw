@@ -10,7 +10,7 @@ export default function Banner() {
           />
         </div>
       </div>
-      <img className="relative self-stretch max-w-[634.23px] w-[100px]" alt="Image" src="image.jpg" />
+      <img className="relative self-stretch max-w-[634.23px] w-[100px]" alt="Image" src="/img/image.jpg" />
     </div>    
       
     )
