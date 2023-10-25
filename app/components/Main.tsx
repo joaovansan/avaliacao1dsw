@@ -12,7 +12,7 @@ export default function Main() {
   <div className="w-[968px] gap-[40px] absolute top-[88px] left-[28px] flex items-start">
     <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
       <div className="inline-flex h-[318px] items-start relative">
-        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="ipad" src="/img/ipad pro.jpg" />
+        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="ipad" src="/img/Ipad pro.jpg" />
       </div>
 
 
@@ -50,7 +50,7 @@ export default function Main() {
 
     <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
       <div className="inline-flex h-[318px] items-start relative">
-        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Dashfolio.jpg" />
+        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/DahsFolio.jpg" />
       </div>
       <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
         <div className="flex items-center justify-between pl-0 pr-[0.39px] py-0 relative self-stretch w-full flex-[0_0_auto]">
