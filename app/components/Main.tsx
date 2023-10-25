@@ -12,7 +12,7 @@ export default function Main() {
   <div className="w-[968px] gap-[40px] absolute top-[88px] left-[28px] flex items-start">
     <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
       <div className="inline-flex h-[318px] items-start relative">
-        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-2.png" />
+        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="ipad" src="/img/ipad pro.jpg" />
       </div>
 
 
@@ -50,7 +50,7 @@ export default function Main() {
 
     <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
       <div className="inline-flex h-[318px] items-start relative">
-        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-11.png" />
+        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Dashfolio.jpg" />
       </div>
       <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
         <div className="flex items-center justify-between pl-0 pr-[0.39px] py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -81,7 +81,7 @@ export default function Main() {
     </div>
     <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
       <div className="inline-flex h-[318px] items-start relative">
-        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-12.png" />
+        <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/distorcion.jpg" />
       </div>
       <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
         <div className="flex items-center justify-between pl-0 pr-[0.27px] py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -124,7 +124,7 @@ export default function Main() {
     <div className="gap-[40px] relative self-stretch w-full flex-[0_0_auto] flex items-start">
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-13.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Cyber.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between pr-[1.91e-06px] pl-0 py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -155,7 +155,7 @@ export default function Main() {
       </div>
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-14.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Future.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between pr-[3.81e-06px] pl-0 py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -186,7 +186,7 @@ export default function Main() {
       </div>
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-16.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Anomaly.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between pl-0 pr-[0.34px] py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -230,7 +230,7 @@ export default function Main() {
     <div className="w-[968px] gap-[40px] absolute top-[254px] left-0 flex items-start">
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/macbook.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between pr-[3.81e-06px] pl-0 py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -261,7 +261,7 @@ export default function Main() {
       </div>
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-3.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/iphone14.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between pl-0 pr-[0.27px] py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -292,7 +292,7 @@ export default function Main() {
       </div>
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-4.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/wall.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between pl-0 pr-[0.27px] py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -334,7 +334,7 @@ export default function Main() {
     <div className="w-[968px] gap-[40px] absolute top-[702px] left-0 flex items-start">
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-5.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Distortion coll.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between pl-0 pr-[0.27px] py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -365,7 +365,7 @@ export default function Main() {
       </div>
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-6.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Transform.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between pl-0 pr-[0.27px] py-0 relative self-stretch w-full flex-[0_0_auto]">
@@ -396,7 +396,7 @@ export default function Main() {
       </div>
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
-          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="image-7.png" />
+          <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/undertone.jpg" />
         </div>
         <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
           <div className="flex items-center justify-between relative self-stretch w-full flex-[0_0_auto]">
