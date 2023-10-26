@@ -542,7 +542,7 @@ export default function Main() {
           UTFPR
         </div>
       </div>
-      <div className="flex flex-col w-[147.2px] items-start gap-[12px] relative self-stretch">
+      <div className="flex flex-col w-[1920px] items-start gap-[12px] relative self-stretch">
         <div className="flex items-start pl-0 pr-[79.2px] py-0 self-stretch w-full flex-[0_0_auto] flex-col relative">
           <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[16px] tracking-[0] leading-[24px] whitespace-nowrap">
             Products
@@ -570,7 +570,7 @@ export default function Main() {
           </div>
         </div>
       </div>
-      <div className="pt-0 pb-[36px] px-0 flex flex-col w-[147.2px] items-start gap-[12px] relative self-stretch">
+      <div className="pt-0 pb-[36px] px-0 flex flex-col w-[1920px] items-start gap-[12px] relative self-stretch">
         <div className="flex items-start pl-0 pr-[101.2px] py-0 self-stretch w-full flex-[0_0_auto] flex-col relative">
           <div className="[font-family:'Inter-Regular',Helvetica] relative w-fit mt-[-1.00px] font-normal text-[16px] tracking-[0] leading-[24px] whitespace-nowrap">
             About
