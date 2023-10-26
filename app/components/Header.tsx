@@ -10,7 +10,7 @@ export default function Header() {
               </div>
             </div>
           </div>
-          <div className="inline-flex items-start w-[1440px] gap-[4px] relative flex-[0_0_auto] mt-[-5.00px] mb-[-5.00px]">
+          <div className="inline-flex items-start gap-[4px] relative flex-[0_0_auto] mt-[-5.00px] mb-[-5.00px]">
             <div className="inline-flex flex-col items-start pl-[16px] pr-[14.48px] py-0 relative self-stretch flex-[0_0_auto]">
               <div className="absolute w-[89px] h-[32px] top-[-5px] left-0 bg-[#181818] rounded-[8px] border border-solid border-[#40404066]" />
               <div className="flex self-stretch w-full flex-col items-start relative flex-[0_0_auto]">
