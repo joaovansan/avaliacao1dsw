@@ -1,6 +1,6 @@
 export default function Main() {
     return (
-<div className="flex flex-col bg-white w-[1440px] items-start gap-[40px] relative">
+<div className="flex flex-col bg-white w-auto items-start gap-[40px] relative">
 <div className="relative self-stretch w-full h-[2584px] flex-col border-b">
   <div className="flex w-[968px] pl-0 pr-[823px] py-0 absolute top-[16px] left-[28px] flex-col items-start">
     <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] text-black font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
@@ -9,7 +9,7 @@ export default function Main() {
   </div>
 
 
-  <div className="w-[1440px] gap-[40px] absolute top-[88px] left-[28px] flex items-start">
+  <div className="w-auto gap-[40px] absolute top-[88px] left-[28px] flex items-start">
     <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
       <div className="inline-flex h-[318px] items-start relative">
         <img className="flex-1 max-w-[480px] grow relative self-stretch" alt="ipad" src="/img/Ipad pro.jpg" />
