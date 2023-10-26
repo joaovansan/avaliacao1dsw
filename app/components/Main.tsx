@@ -20,14 +20,14 @@ export default function Main() {
       <div className="flex flex-col w-[294px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
         <div className="flex items-center justify-between relative self-stretch w-full flex-[0_0_auto]">
           <div className="inline-flex items-start pl-0 pr-[5.92px] py-0 flex-[0_0_auto] flex-col relative">
-            <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[18px] tracking-[0] leading-[28px] whitespace-nowrap">
+            <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-black text-[18px] tracking-[0] leading-[28px] whitespace-nowrap">
               ipad pro 05 standar...
             </div>
           </div>
 
 
           <div className="pl-0 pr-[0.81px] py-0 inline-flex flex-col items-start relative flex-[0_0_auto]">
-            <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[14px] tracking-[0] leading-[20px] whitespace-nowrap">
+            <div className="relative w-fit mt-[-1.00px] text-black [font-family:'Inter-Regular',Helvetica] font-normal text-[14px] tracking-[0] leading-[20px] whitespace-nowrap">
               $22
             </div>
           </div>
