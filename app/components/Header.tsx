@@ -1,7 +1,7 @@
 export default function Header() {
     return (
    
-      <div className="flex items-start flex w-[1440px] pt-0 pb-[16px] px-[112px] relative bg-white border-b [border-bottom-style:solid] border-[#4040404c]">
+      <div className="flex items-start flex pt-0 pb-[16px] px-[112px] relative bg-white border-b [border-bottom-style:solid] border-[#4040404c]">
         <div className="h-[30px] w-[1440px] items-center justify-between pl-[10px] pr-[12.02px] pt-[20px] pb-0 relative mr-[-112.00px]">
           <div className="inline-flex mt-[-9.00px] mb-[-9.00px] flex-col items-start relative flex-[0_0_auto]">
             <div className="flex flex-col items-start pl-0 pr-[2.23px] py-0 relative self-stretch w-full flex-[0_0_auto]">
