@@ -9,7 +9,7 @@ export default function Main() {
   </div>
 
 
-  <div className="w-[968px] gap-[40px] absolute top-[88px] left-[28px] flex items-start">
+  <div className="w-[1920px] gap-[40px] absolute top-[88px] left-[28px] flex items-start">
     <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
       <div className="inline-flex h-[318px] items-start relative">
         <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="ipad" src="/img/Ipad pro.jpg" />
