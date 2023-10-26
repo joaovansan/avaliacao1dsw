@@ -121,7 +121,7 @@ export default function Main() {
         </div>
       </div>
     </div>
-    <div className="gap-[40px] relative self-stretch w-full flex-[0_0_auto] flex items-start">
+    <div className="w-[1920px] gap-[40px] relative self-stretch w-full flex-[0_0_auto] flex items-start">
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
           <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Cyber.jpg" />
@@ -227,7 +227,7 @@ export default function Main() {
         </div>
       </div>
     </div>
-    <div className="w-[968px] gap-[40px] absolute top-[254px] left-0 flex items-start">
+    <div className="w-[1920px] gap-[40px] absolute top-[254px] left-0 flex items-start">
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
           <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/macbook.jpg" />
@@ -322,7 +322,7 @@ export default function Main() {
         </div>
       </div>
     </div>
-    <div className="flex w-[968px] items-center justify-around gap-[778.92px] absolute top-[630px] left-0">
+    <div className="flex w-[1920px] items-center justify-around gap-[778.92px] absolute top-[630px] left-0">
       <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
         <div className="pl-0 pr-[4.91px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
           <div className="[font-family:'Inter-Regular',Helvetica] text-[24px] text-black leading-[32px] relative w-fit mt-[-1.00px] font-normal tracking-[0] whitespace-nowrap">
@@ -331,7 +331,7 @@ export default function Main() {
         </div>
       </div>
     </div>
-    <div className="w-[968px] gap-[40px] absolute top-[702px] left-0 flex items-start">
+    <div className="w-[1920px] gap-[40px] absolute top-[702px] left-0 flex items-start">
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
           <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Distortion coll.jpg" />
@@ -426,8 +426,8 @@ export default function Main() {
         </div>
       </div>
     </div>
-    <div className="absolute w-[968px] h-[2px] top-[1102px] left-0 border border-solid border-neutral-800" />
-    <div className="flex w-[968px] items-center justify-around gap-[717.2px] absolute top-[1184px] left-0">
+    <div className="absolute w-[1920px] h-[2px] top-[1102px] left-0 border border-solid border-neutral-800" />
+    <div className="flex w-[1920px] items-center justify-around gap-[717.2px] absolute top-[1184px] left-0">
       <div className="inline-flex flex-col items-start relative flex-[0_0_auto]">
         <div className="pl-0 pr-[2.63px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
           <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[24px] tracking-[0] text-black leading-[32px] whitespace-nowrap">
@@ -436,7 +436,7 @@ export default function Main() {
         </div>
       </div>
     </div>
-    <div className="w-[968px] gap-[40px] absolute top-[1256px] left-0 flex items-start">
+    <div className="w-[1920px] gap-[40px] absolute top-[1256px] left-0 flex items-start">
       <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
         <div className="inline-flex h-[318px] items-start relative">
           <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="Image" src="/img/Distortion coll.jpg" />
