@@ -2,7 +2,7 @@ export default function Header() {
     return (
    
       <div className="flex flex-col w-[1440px] h-[64px] items-start pt-0 pb-[16px] px-[112px] relative bg-white border-b [border-bottom-style:solid] border-[#4040404c]">
-      <div className="flex w-[1200px] h-[30px] items-center justify-between pl-[10px] pr-[12.02px] pt-[20px] pb-0 relative mr-[-112.00px]">
+      <div className="flex w-[1300px] h-[30px] items-center justify-between pl-[10px] pr-[12.02px] pt-[20px] pb-0 relative mr-[-112.00px]">
         <div className="inline-flex mt-[-9.00px] mb-[-9.00px] flex-col items-start relative flex-[0_0_auto]">
           <div className="flex flex-col items-start pl-0 pr-[2.23px] py-0 relative self-stretch w-full flex-[0_0_auto]">
             <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-black text-[20px] tracking-[0] leading-[28px] whitespace-nowrap">
