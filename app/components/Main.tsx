@@ -1,6 +1,6 @@
 export default function Main() {
     return (
-<div className="flex flex-col bg-white w-[1440px] items-start gap-[40px] relative">
+<div className="flex flex-col bg-white w-[1920px] items-start gap-[40px] relative">
 <div className="relative self-stretch w-full h-[2584px] flex-col border-b">
   <div className="flex w-[968px] pl-0 pr-[823px] py-0 absolute top-[16px] left-[28px] flex-col items-start">
     <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] text-black font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
@@ -9,7 +9,7 @@ export default function Main() {
   </div>
 
 
-  <div className="w-[1440px] gap-[40px] absolute top-[88px] left-[28px] flex items-start">
+  <div className="w-[1920px] gap-[40px] absolute top-[88px] left-[28px] flex items-start">
     <div className="flex flex-col items-start p-px relative flex-1 self-stretch grow rounded-[8px] overflow-hidden border border-solid border-zinc-300">
       <div className="inline-flex h-[318px] items-start relative">
         <img className="flex-1 max-w-[294px] grow relative self-stretch" alt="ipad" src="/img/Ipad pro.jpg" />
@@ -542,7 +542,7 @@ export default function Main() {
           UTFPR
         </div>
       </div>
-      <div className="flex flex-col w-[1440px] items-start gap-[12px] relative self-stretch">
+      <div className="flex flex-col w-[147.2px] items-start gap-[12px] relative self-stretch">
         <div className="flex items-start pl-0 pr-[79.2px] py-0 self-stretch w-full flex-[0_0_auto] flex-col relative">
           <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[16px] tracking-[0] leading-[24px] whitespace-nowrap">
             Products
@@ -570,7 +570,7 @@ export default function Main() {
           </div>
         </div>
       </div>
-      <div className="pt-0 pb-[36px] px-0 flex flex-col w-[1440px] items-start gap-[12px] relative self-stretch">
+      <div className="pt-0 pb-[36px] px-0 flex flex-col w-[147.2px] items-start gap-[12px] relative self-stretch">
         <div className="flex items-start pl-0 pr-[101.2px] py-0 self-stretch w-full flex-[0_0_auto] flex-col relative">
           <div className="[font-family:'Inter-Regular',Helvetica] relative w-fit mt-[-1.00px] font-normal text-[16px] tracking-[0] leading-[24px] whitespace-nowrap">
             About
