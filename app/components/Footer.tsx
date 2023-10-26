@@ -108,6 +108,13 @@ export default function Footer() {
         </div>
       </div>
       </div>
+        <div className="inline-flex items-start justify-center gap-[24px] relative">
+      <img className="relative flex-[0_0_auto]" alt="Div cursor pointer" src="/img/SVG.svg" />
+      <div className="inline-flex flex-col items-start pt-0 pb-[4px] px-0 relative flex-[0_0_auto]">
+        <img className="relative w-[20px] h-[20px]" alt="Svg" src="/img/SVG (1).svg" />
+      </div>
+      <img className="relative flex-[0_0_auto]" alt="Div cursor pointer" src="/img/SVG (2).svg" />
+    </div>
   </div>
 </div>
 )
