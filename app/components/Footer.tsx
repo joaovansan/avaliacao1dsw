@@ -116,5 +116,8 @@ export default function Footer() {
       </div>
       <img className="relative flex-[0_0_auto]" alt="Div cursor pointer" src="/img/SVG (2).svg" />
     </div>
+    </div>
+    </div>
+    </div>
   );
 }
