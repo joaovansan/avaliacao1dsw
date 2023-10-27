@@ -1,21 +1,21 @@
 export default function Footer() {
     return (
 <div className="flex-col bg-white w-[1440px] gap-[32px] pt-[88px] pb-[32px] px-[32px] text-black flex items-start relative flex-[0_0_auto]">
-  <div className="flex flex-col items-start gap-[40px] px-[112px] py-0 relative self-stretch w-full flex-[0_0_auto]">
+  <div className="md:flex  flex-col items-start gap-[40px] px-[112px] py-0 relative self-stretch w-full flex-[0_0_auto]">
     <div className="relative max-w-screen-xl w-[1440px] h-[2px] border border-solid border-[#40404040]" />
     <div className="pr-[1.53e-05px] pl-0 py-0 relative self-stretch w-full flex-[0_0_auto] flex items-start">
-      <div className="flex w-[147.19px] items-start pl-0 pr-[49.19px] pt-0 pb-[104px] flex-col relative">
+      <div className="md:flex  w-[147.19px] items-start pl-0 pr-[49.19px] pt-0 pb-[104px] flex-col relative">
         <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[20px] tracking-[0] leading-[28px] whitespace-nowrap">
           UTFPR
         </div>
       </div>
-      <div className="flex flex-col w-[147.2px] items-start gap-[12px] relative self-stretch">
-        <div className="flex items-start pl-0 pr-[79.2px] py-0 self-stretch w-full flex-[0_0_auto] flex-col relative">
+      <div className="md:flex  flex-col w-[147.2px] items-start gap-[12px] relative self-stretch">
+        <div className="md:flex  items-start pl-0 pr-[79.2px] py-0 self-stretch w-full flex-[0_0_auto] flex-col relative">
           <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[16px] tracking-[0] leading-[24px] whitespace-nowrap">
             Products
           </div>
         </div>
-        <div className="flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
+        <div className="md:flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
           <div className="pl-0 pr-[73.2px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
             <div className="relative w-fit mt-[-1.00px] [font-family:'Roboto-Regular',Helvetica] font-normal text-[15.6px] tracking-[0] leading-[24px] whitespace-nowrap">
               Templates
@@ -43,8 +43,8 @@ export default function Footer() {
             About
           </div>
         </div>
-        <div className="flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
-          <div className="pl-0 pr-[77.2px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
+        <div className="md:flex  flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
+          <div className="pl-0 pr-[77.2px] py-0 md:flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
             <div className="[font-family:'Roboto-Regular',Helvetica] text-[16px] relative w-fit mt-[-1.00px] font-normal tracking-[0] leading-[24px] whitespace-nowrap">
               Magazine
             </div>
@@ -59,12 +59,12 @@ export default function Footer() {
         </div>
       </div>
       <div className="pt-0 pb-[36px] px-0 flex flex-col w-[147.2px] items-start gap-[12px] relative self-stretch">
-        <div className="flex items-start pl-0 pr-[112.2px] py-0 self-stretch w-full flex-[0_0_auto] flex-col relative">
+        <div className="md:flex  items-start pl-0 pr-[112.2px] py-0 self-stretch w-full flex-[0_0_auto] flex-col relative">
           <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[16px] tracking-[0] leading-[24px] whitespace-nowrap">
             Help
           </div>
         </div>
-        <div className="flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
+        <div className="md:flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
           <div className="pl-0 pr-[90.2px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
             <div className="relative w-fit mt-[-1.00px] [font-family:'Roboto-Regular',Helvetica] font-normal text-[15.9px] tracking-[0] leading-[24px] whitespace-nowrap">
               Support
@@ -85,7 +85,7 @@ export default function Footer() {
             Legal
           </div>
         </div>
-        <div className="flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
+        <div className="md:flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
           <div className="pl-0 pr-[48.2px] py-0 flex flex-col items-start relative self-stretch w-full flex-[0_0_auto]">
             <div className="relative w-fit mt-[-1.00px] [font-family:'Roboto-Regular',Helvetica] font-normal text-[16px] tracking-[0] leading-[24px] whitespace-nowrap">
               Privacy Policy
