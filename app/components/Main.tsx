@@ -1,6 +1,6 @@
 export default function Main() {
     return (
-<div className="flex flex-col bg-white w-[1440px] items-start gap-[40px] relative">
+<div className="flex flex-col bg-white items-start gap-[40px] relative">
 <div className="relative self-stretch w-full h-[2584px] flex-col border-b">
   <div className="flex w-[968px] pl-0 pr-[823px] py-0 absolute top-[16px] left-[28px] flex-col items-start">
     <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] text-black font-normal text-[24px] tracking-[0] leading-[32px] whitespace-nowrap">
@@ -17,7 +17,7 @@ export default function Main() {
 
 
 
-      <div className="flex flex-col w-[250px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
+      <div className="flex flex-col w-[px] items-start gap-[8px] pt-[13px] pb-[253px] px-[12px] absolute top-[243px] left-px bg-white border-t [border-top-style:solid] border-zinc-800">
         <div className="flex items-center justify-between relative self-stretch w-full flex-[0_0_auto]">
           <div className="inline-flex items-start pl-0 pr-[5.92px] py-0 flex-[0_0_auto] flex-col relative">
             <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-black text-[18px] tracking-[0] leading-[28px] whitespace-nowrap">
