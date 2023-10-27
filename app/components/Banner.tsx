@@ -1,6 +1,6 @@
 export default function Banner() {
     return (
-      <div className="flex w-[1440px] max-w-screen-xl h-[448px] bg-white items-center justify-center pl-[194.88px] pr-[194.89px] py-[128px] relative">
+      <div className="flex w-[1440px] h-[448px] bg-white items-center justify-center pl-[194.88px] pr-[194.89px] py-[128px] relative">
       <div className="inline-flex items-start gap-[20px] pt-[80px] pb-0 px-0 relative flex-[0_0_auto]">
         <div className="items-start pt-[16px] pb-0 px-0 inline-flex flex-col relative flex-[0_0_auto]">
           <div className="items-center pl-[0.21px] pr-[0.01px] py-0 inline-flex flex-col relative flex-[0_0_auto]">

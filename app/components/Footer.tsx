@@ -1,8 +1,8 @@
 export default function Footer() {
     return (
-<div className="flex-col bg-white max-w-screen-xl w-[1440px] gap-[32px] pt-[88px] pb-[32px] px-[32px] text-black flex items-start relative flex-[0_0_auto]">
+<div className="flex-col bg-white w-[1440px] gap-[32px] pt-[88px] pb-[32px] px-[32px] text-black flex items-start relative flex-[0_0_auto]">
   <div className="md:flex  flex-col items-start gap-[40px] px-[112px] py-0 relative self-stretch w-full flex-[0_0_auto]">
-    <div className="relative max-w-screen-xl w-[1440px] h-[2px] border border-solid border-[#40404040]" />
+    <div className="relative w-[1440px] h-[2px] border border-solid border-[#40404040]" />
     <div className="pr-[1.53e-05px] pl-0 py-0 relative self-stretch w-full flex-[0_0_auto] flex items-start">
       <div className="md:flex  w-[147.19px] items-start pl-0 pr-[49.19px] pt-0 pb-[104px] flex-col relative">
         <div className="relative w-fit mt-[-1.00px] [font-family:'Inter-Regular',Helvetica] font-normal text-[20px] tracking-[0] leading-[28px] whitespace-nowrap">
