@@ -106,9 +106,8 @@ export default function Footer() {
       <div className="inline-flex flex-col items-start pl-0 pr-[1.36px] py-0 relative self-stretch flex-[0_0_auto]">
         <div className="relative w-fit mt-[-1.00px] [font-family:'Roboto-Regular',Helvetica] font-normal text-zinc-500 text-[16px] tracking-[0] leading-[24px] whitespace-nowrap">
           © UTFPR 2023
-        </div>
-        <div className="flex items-start justify-center gap-4">
-        </div>
+          </div>
+      </div>
         <div className="inline-flex items-start justify-center gap-[24px] relative">
       <img className="relative flex-[0_0_auto]" alt="Div cursor pointer" src="/img/SVG.svg" />
       <div className="inline-flex flex-col items-start pt-0 pb-[4px] px-0 relative flex-[0_0_auto]">
@@ -116,8 +115,7 @@ export default function Footer() {
       </div>
       <img className="relative flex-[0_0_auto]" alt="Div cursor pointer" src="/img/SVG (2).svg" />
     </div>
-    </div>
-    </div>
-    </div>
-  );
+  </div>
+</div>
+)
 }
